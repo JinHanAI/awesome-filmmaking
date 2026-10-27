@@ -62,6 +62,7 @@ _Paid:_
 
 _Blogs/Websites:_
  * [No Film School](http://nofilmschool.com/)
+ * [Shot List Template](https://github.com/JinHanAI/shot-list-template) - Free CSV and Markdown shot list for breaking down scenes shot by shot, with a column guide and example.
  * [Video Copilot](http://www.videocopilot.net/) - Visual effects tutorials, mostly for Adobe After Effects.
  
 _YouTube channels:_
